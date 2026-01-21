@@ -10,6 +10,9 @@
 - 支持开机自启动（通过注册表）。
 - 使用 `QSettings` 持久化存储用户设置。
 - 简单的单实例检查，防止多个应用副本运行。
+![输入图片说明](assets/image.png)
+
+![输入图片说明](assets/2%25OSNIA3$LSASQ%7D7%25ZQVXKX.png)
 
 ## 如何运行
 
