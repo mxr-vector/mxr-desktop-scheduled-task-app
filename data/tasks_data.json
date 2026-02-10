@@ -1,24 +1,14 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "content": "1111111111111111111111111111",
+      "id": 3,
+      "content": "1111",
       "weekdays": [
         1
       ],
-      "time": "09:00",
+      "time": "09:21",
       "enabled": true,
-      "last_triggered": null
-    },
-    {
-      "id": 2,
-      "content": "22222222222222222222222222222222222",
-      "weekdays": [
-        1
-      ],
-      "time": "09:00",
-      "enabled": true,
-      "last_triggered": null
+      "last_triggered": "2026-02-10"
     }
   ]
 }
